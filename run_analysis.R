@@ -1,6 +1,6 @@
 library(reshape2)
 
-filename <- "getdata_dataset.zip"
+filename <- "getdata-projectfiles-UCI HAR Dataset"
 
 ## Download and unzip the dataset:
 if (!file.exists(filename)){
